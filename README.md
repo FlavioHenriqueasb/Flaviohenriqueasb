@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-FullStack Developer<br>-Front-end<br>-learning more about back-end</p>
+<p align="left">-FullStack Developer<br>-Front-end<br>-Learning more about back-end</p>
 
 ###
 
